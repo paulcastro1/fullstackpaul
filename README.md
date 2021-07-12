@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @PAULMUTALE
+- 👋 Hi, I’m @Paulcastro01
 - 👀 I’m interested in programming 
 - 🌱 I’m currently learning css design and html5
 - 💞️ I’m looking to collaborate on any project 
