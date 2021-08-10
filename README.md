@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Paulcastro01
-- 👀 I’m interested in programming 
+- 👀 I’m a proactive programmer
 - 🌱 I’m currently learning css design and html5
 - 💞️ I’m looking to collaborate on any project 
 - 📫 How to reach me paulcastro0201@gmail.com
